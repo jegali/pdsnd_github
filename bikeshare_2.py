@@ -7,6 +7,8 @@ import numpy as np
 # https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
 # https://note.nkmk.me/en/python-pandas-len-shape-size/
 
+# Just a comment for the github project
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
