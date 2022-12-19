@@ -23,6 +23,7 @@ ALLMONTHS = False
 ALLDAYS = False
 
 def get_filters():
+    # first change for github project
     global ALLMONTHS
     global ALLDAYS
 
