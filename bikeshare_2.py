@@ -8,6 +8,7 @@ import numpy as np
 # https://note.nkmk.me/en/python-pandas-len-shape-size/
 
 # Just a comment for the github project
+# for the second commit
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
