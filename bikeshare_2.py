@@ -27,9 +27,14 @@ ALLDAYS = False
 
 def get_filters():
 <<<<<<< HEAD
+<<<<<<< HEAD
     # first change for github project
 =======
 >>>>>>> documentation
+=======
+    # first change for github project
+    # another change for the refactoring branch
+>>>>>>> refactoring
     global ALLMONTHS
     global ALLDAYS
 
@@ -100,9 +105,13 @@ def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
 <<<<<<< HEAD
+<<<<<<< HEAD
     Added second comment for github project
 =======
 >>>>>>> documentation
+=======
+    Added second comment for github project
+>>>>>>> refactoring
 
     Args:
         (str) city - name of the city to analyze
@@ -210,9 +219,13 @@ def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     # third comment for github
 =======
 >>>>>>> documentation
+=======
+    # third comment for github
+>>>>>>> refactoring
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
 
