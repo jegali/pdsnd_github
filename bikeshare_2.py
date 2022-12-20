@@ -26,7 +26,10 @@ ALLMONTHS = False
 ALLDAYS = False
 
 def get_filters():
+<<<<<<< HEAD
     # first change for github project
+=======
+>>>>>>> documentation
     global ALLMONTHS
     global ALLDAYS
 
@@ -96,7 +99,10 @@ def get_filters():
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
+<<<<<<< HEAD
     Added second comment for github project
+=======
+>>>>>>> documentation
 
     Args:
         (str) city - name of the city to analyze
@@ -203,7 +209,10 @@ def station_stats(df):
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
+<<<<<<< HEAD
     # third comment for github
+=======
+>>>>>>> documentation
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
 
