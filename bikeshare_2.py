@@ -24,6 +24,7 @@ ALLDAYS = False
 
 def get_filters():
     # first change for github project
+    # another change for the refactoring branch
     global ALLMONTHS
     global ALLDAYS
 
